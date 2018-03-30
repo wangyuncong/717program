@@ -1,0 +1,1 @@
+export {default,Setting} from './setting'
